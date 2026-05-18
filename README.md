@@ -125,6 +125,6 @@ Las siguientes capturas validan el comportamiento del sistema ante los distintos
 
 **IS-489 · Pruebas y Aseguramiento de Calidad de Software**  
 UNSCH · Facultad de Ingeniería · Semestre 2026-I  
-Aguilar Flores, Crisólogo · Serie 300
+Aguilar Flores, Crisólogo · Serie 400
 
 </div>
