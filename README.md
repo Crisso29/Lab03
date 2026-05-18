@@ -17,7 +17,7 @@
 | **Semestre Académico** | 2026-I · Presencial |
 | **Laboratorio** | Guía 03 — Diseño de Casos de Prueba Funcionales |
 | **Alumno** | Aguilar Flores, Crisólogo |
-| **Serie** | 300 |
+| **Serie** | 400 |
 | **Sistema bajo prueba** | Spotify — Reproductor Web y Módulo de Registro |
 | **URL del sistema** | [https://www.spotify.com](https://www.spotify.com) |
 | **Fecha de entrega** | 18 de mayo de 2026 |
@@ -103,21 +103,21 @@ Las siguientes capturas validan el comportamiento del sistema ante los distintos
 ### 5.1 — Formulario inicial vacío
 > Estado limpio del sistema antes de ingresar parámetros. Representa el punto de partida para todos los casos de prueba.
 
-![Formulario vacío](documentos%20de%20test/formulario_vacio.png)
+![Formulario vacío](Documentos%20de%20test/formulario_vacio.png)
 
 ---
 
 ### 5.2 — Caso de ejecución exitosa (Happy Path)
 > Confirmación visual del flujo satisfactorio: parámetros válidos que cumplen las reglas de negocio generan acceso o aprovisionamiento correcto de cuenta.
 
-![Caso exitoso](documentos%20de%20test/caso_exitoso.png)
+![Caso exitoso](Documentos%20de%20test/caso_exitoso.png)
 
 ---
 
 ### 5.3 — Caso de ejecución con error (Validaciones activas)
 > Intercepción correcta del sistema ante entradas inválidas, credenciales erróneas o violaciones de los límites de frontera preestablecidos.
 
-![Caso con error](documentos%20de%20test/caso_error.png)
+![Caso con error](Documentos%20de%20test/caso_error.png)f
 
 ---
 
