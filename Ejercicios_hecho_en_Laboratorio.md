@@ -67,7 +67,7 @@ Permite crear nuevas cuentas con validaciones de seguridad.
 
 ## 4. Matriz de Casos de Prueba
 
-📊 **[Ver Matriz Completa en Google Sheets](https://docs.google.com/spreadsheets/d/1-3pv1lYlog1fCLtp2-2KOUf1ZZcUOaQmIEWyASMKDi8/edit?usp=sharing)**
+📊 **[Ver Matriz Completa en Google Sheets](https://docs.google.com/spreadsheets/d/1Y37PRfD_-ovTYU7YynzqMOyXFL4KSS1UpGiQLPpCkGw/edit?usp=sharing)**
 
 ### Cuadro de trazabilidad QA
 
