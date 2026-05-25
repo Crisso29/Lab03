@@ -107,21 +107,21 @@ Ambos módulos fueron elegidos porque permiten evidenciar con claridad las **4 t
 Las siguientes capturas validan el comportamiento del sistema ante los distintos escenarios de prueba ejecutados en vivo sobre [https://open.spotify.com](https://open.spotify.com).
 
 ### 5.1 — Formulario inicial vacío
-> Estado limpio del sistema antes de ingresar parámetros. Representa el punto de partida para todos los casos de prueba.
+> En el modulo search, el formulario vacío muestra lo siguiente:
 
 ![Formulario vacío](Documentos%20de%20test/formulario_vacio.png)
 
 ---
 
 ### 5.2 — Caso de ejecución exitosa (Happy Path)
-> Confirmación visual del flujo satisfactorio: parámetros válidos que cumplen las reglas de negocio generan acceso o aprovisionamiento correcto de cuenta.
+> En el modulo Gestión de Playlist, cuando uno crea correctamente la Lista:
 
 ![Caso exitoso](Documentos%20de%20test/caso_exitoso.png)
 
 ---
 
 ### 5.3 — Caso de ejecución con error (Validaciones activas)
-> Intercepción correcta del sistema ante entradas inválidas, credenciales erróneas o violaciones de los límites de frontera preestablecidos.
+>Busqueda inaceptable:
 
 ![Caso con error](Documentos%20de%20test/caso_error.png)
 
